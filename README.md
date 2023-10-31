@@ -30,12 +30,12 @@ play with a horizontal view, allies occasionally spawn to help the player, and e
 - Shoots a bullet at the border that  gradually gains speed
 - Hp: 3
 
-** MiniBoss:**
+**MiniBoss:**
 - Shoots two projectiles randomly, once at half heat spawns in two Enemeny 2's
 - Bullet Damage: 1.5hp
 - Hp: 10
 
-** Boss:**
+**Boss:**
 - Gradually gains speed when hitting the border, and spawns in Enemeny 1,2,3 types on the impact of the border. Once health is divisible by 50, spawns in MiniBoss.
 - Bullet Damage: 0hp //No Bullets from Boss
 - Hp: 200
